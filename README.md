@@ -1,29 +1,133 @@
-# Data Analytics Portfolio
+Transportation Expenditures Data Cleaning & Analysis (SQL Project)
+Project Overview
 
-Hi, I'm Sreeram — an aspiring data analyst with a passion for turning raw data into clear, actionable insights. This portfolio showcases projects where I work with real-world datasets to practice data cleaning, exploration, and analysis using SQL.
+This project focuses on cleaning, transforming, and analyzing a large government transportation expenditure dataset using MySQL. The dataset contains expenditure transactions across multiple fiscal years, departments, vendors, expenditure classes, and budget categories.
 
----
+The primary objective of this project was to:
 
-## Projects
+Clean and standardize raw transactional data
+Handle duplicates and inconsistent values
+Perform string transformations and conditional data parsing
+Prepare the dataset for exploratory analysis and visualization
+Generate analytical insights using SQL aggregation techniques
+Dataset Information
 
-| Project | Tools | Description |
-|--------|-------|-------------|
-| [Oregon Transportation Expenditures (2022–2024)](./oregon-transportation-expenditures-2022-2024) | SQL | Cleaned and analysed 37,000+ rows of government expenditure data from Oregon's Department of Transportation across 3 fiscal years. Identified data quality issues, standardised formats, and prepared the dataset for analysis. |
+The dataset includes:
 
----
+Fiscal Year
+Department / Agency Information
+Budget & Expenditure Classes
+Vendor Information
+Expense Amounts
+Vendor State Information
 
-## Skills
+The project was performed on a reduced portfolio-friendly dataset focused on transportation-related expenditures from 2022–2024.
 
-- **SQL** — data cleaning, aggregations, joins, window functions, CTEs
-- **Data Cleaning** — handling nulls, fixing inconsistencies, standardising formats
-- **Tools** — MYSQL, GitHub
+Data Cleaning Steps Performed
+1. Duplicate Detection & Removal
+Identified duplicate records using:
+ROW_NUMBER()
+Common Table Expressions (CTEs)
+Window Functions
+Removed duplicate rows while preserving original transactional integrity
+Concepts Used
+ROW_NUMBER() OVER(PARTITION BY ...)
+CTEs
+Conditional duplicate filtering
+2. Column Name Standardization
+Renamed columns to follow consistent naming conventions
+Converted column names to lowercase
+Removed problematic special characters from column names
+Example
+BUDGET CLASS # → budget_type
+EXPEND CLASS → expend_type
+3. Text Standardization
 
----
+Performed text cleaning operations including:
 
-## About the Data
+Converting values to lowercase
+Removing leading/trailing spaces using TRIM()
+Standardizing inconsistent categorical values
+Concepts Used
+LOWER()
+TRIM()
+UPDATE
+4. Vendor Name Parsing & Transformation
 
-All datasets used in this portfolio are sourced from publicly available government data at [data.gov](https://data.gov). No sensitive or private data is used.
+The vendor column contained mixed entity types:
 
+Personal names
+Departments
+Agencies
+Hotels
+Organizations
+Challenge
+
+Some vendor names followed patterns like:
+
+lastname, firstname middleinitial
+Solution
+
+Implemented conditional string parsing logic to:
+
+Extract only first names from personal-name formatted vendors
+Preserve organization/vendor names unchanged
+SQL Functions Used
+CASE WHEN
+LOCATE()
+SUBSTRING()
+SUBSTRING_INDEX()
+Nested string functions
+Example Transformation
+case, nicholas b
+→
+nicholas
+
+A new column (clean_vendor) was created to preserve original raw vendor data.
+
+5. Conditional Data Cleaning
+
+Applied transformations selectively using conditional logic:
+
+Cleaned only rows matching name patterns
+Preserved non-person entities such as:
+Departments
+Agencies
+Organizations
+Concepts Used
+CASE
+Conditional transformations
+Pattern-based cleaning logic
+Exploratory Data Analysis (EDA)
+
+After cleaning, exploratory analysis was performed to identify spending trends and vendor insights.
+
+Analyses Performed
+Top expenditure classes
+Highest spending vendors by fiscal year
+Largest expenditure transactions
+Vendor expenditure aggregation
+Department-level spending analysis
+SQL Concepts Used
+GROUP BY
+SUM()
+MAX()
+ORDER BY
+LIMIT
+Aggregation queries
+Key SQL Skills Demonstrated
+Data Cleaning
+Window Functions
+Duplicate Handling
+Conditional Updates
+String Parsing
+Data Standardization
+Data Analysis
+Aggregation
+Ranking Queries
+Filtering
+Exploratory Analysis
+Trend Identification
 ---
 
 ## Connect
