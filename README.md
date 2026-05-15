@@ -10,7 +10,7 @@ Hi, I'm Sreeram — an aspiring data analyst passionate about working with real-
 
 ---
 
- ##Oregon Transportation Expenditures (2022–2024)
+ ##Transportation Expenditures (2022–2024)
 
 ### Project Overview
 
