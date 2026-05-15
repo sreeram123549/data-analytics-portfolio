@@ -134,6 +134,9 @@ Imported the above cleaned data onto POWER BI DESKTOP for DASHBOARD creation
 
 [PowerBI_Dashboard_Documentation.docx](https://github.com/user-attachments/files/27796982/PowerBI_Dashboard_Documentation.docx)
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/42ddcd97-d97f-4696-89f4-dcc5c207c23e" />
+
+
 
 ## Connect
 
