@@ -130,6 +130,11 @@ Exploratory Analysis
 Trend Identification
 ---
 
+Imported the above cleaned data onto POWER BI DESKTOP for DASHBOARD creation
+
+[PowerBI_Dashboard_Documentation.docx](https://github.com/user-attachments/files/27796982/PowerBI_Dashboard_Documentation.docx)
+
+
 ## Connect
 
 Feel free to reach out or follow my progress as I continue building this portfolio.
