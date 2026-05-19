@@ -9,7 +9,7 @@ Excel, and Tableau.
 
 | Project | Tools | Description |
 |---|---|---|
-| [Oregon Transportation Expenditures](./oregon-transportation-expenditures/) | MySQL | SQL data cleaning and EDA on Oregon state transportation expenditures, 2022–2024 |
+| [Oregon Transportation Expenditures](./oregon-transportation-expenditures/) | MySQL , Power BI | SQL data cleaning and EDA on Oregon state transportation expenditures, 2022–2024 |
 | [Medicare Part D Prescription Analysis](./medicare-partd-prescription-anal.../) | Excel, Tableau | Interactive dashboard analysing elderly prescription drug patterns across 50 US states, 2018–2023. [Live dashboard →](https://public.tableau.com/app/profile/sree.ram.bitla/viz/MedicareProject_17791711900360/MedicarePartDPrescriptionDrugAnalysis20182023) |
 
 ---
