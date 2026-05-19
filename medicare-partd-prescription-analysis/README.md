@@ -15,6 +15,7 @@ Questions Explored
 4.	How has opioid prescribing among elderly Medicare patients changed over the five-year window?
 ________________________________________
 Key Findings
+
 •	Eliquis (apixaban) is the single most expensive drug in Medicare Part D, accounting for the largest share of total drug cost in 2023. Blood thinners and diabetes medications dominate the top 10 by cost — reflecting the chronic disease burden of the elderly population.
 •	Total drug spending grew significantly from 2018 to 2023 while total claims remained relatively flat. This gap indicates that cost per prescription is rising — driven by the increasing share of expensive brand-name specialty drugs rather than higher prescription volume.
 •	Opioid prescribing among elderly Medicare patients declined approximately 16% from 2018 to 2023 — from ~70 million claims in 2018 to ~59 million in 2023. The sharpest drop occurred between 2018 and 2021, coinciding with tightened CDC prescribing guidelines. The rate of decline slowed between 2021 and 2023, suggesting the policy impact has largely plateaued.
@@ -22,7 +23,7 @@ Key Findings
 ________________________________________
 Dashboard
 The interactive dashboard contains four views:
-View	Description
+
 Map — Age 65+ Claims	Choropleth map of Medicare Part D claims per beneficiary across 50 states. Click a state to filter the Top 10 Drugs chart.
 Top 10 Drugs by Cost (2023)	Horizontal bar chart of the 10 highest-cost brand-name drugs. Responds to state selection on the map.
 Trend — Cost vs Claims (2018–2023)	Combo bar + line chart showing total drug cost (bars) against total claims (line) across three years.
