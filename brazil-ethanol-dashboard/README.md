@@ -136,6 +136,6 @@ This analysis explores 50 years of Brazil's ethanol industry journey (1975-2024)
 - Brazil's climate/water resources differ from India's constraints
 
 ---
-<img width="1920" height="1080" alt="Screenshot 2026-05-28 143414" src="https://github.com/user-attachments/assets/d9c8855e-48da-4d45-89fb-ec6e36a072ee" />
-<img width="1920" height="1080" alt="Screenshot 2026-05-28 144327" src="https://github.com/user-attachments/assets/e4dda5b4-1f08-4834-83a4-516731273ef2" />
-<img width="1920" height="1080" alt="Screenshot 2026-05-28 143339" src="https://github.com/user-attachments/assets/be932255-4196-4833-afb2-dce2378ed180" />
+<img width="1920" height="1024" alt="Screenshot 2026-05-28 143339" src="https://github.com/user-attachments/assets/abd8e45b-035b-4838-a34d-43bc1b093a58" />
+<img width="1906" height="1000" alt="Screenshot 2026-05-28 143414" src="https://github.com/user-attachments/assets/ef607290-5af3-4a49-9b1f-fdf0f83595a6" />
+<img width="1903" height="1004" alt="Screenshot 2026-05-28 144327" src="https://github.com/user-attachments/assets/a712ebf0-5709-48c0-a1a5-d1657ea224a6" />
