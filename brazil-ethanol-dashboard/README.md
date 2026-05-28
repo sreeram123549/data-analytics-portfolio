@@ -121,16 +121,7 @@ This analysis explores 50 years of Brazil's ethanol industry journey (1975-2024)
 6. **Air Pollution** — PM 2.5 decline (2011-2023)
 7. **Employment** — Jobs created & sector breakdown
 
----
 
-## Data Files
-
-- `biofuel-production.csv` — Annual biofuel production (1990-2024)
-- `CO2_Avoided.csv` — CO2 avoided by ethanol vs. gasoline (1975-2022)
-- `vehicle-sales.csv` — Vehicle sales by fuel type (2003-2024)
-- `air-pollution.csv` — PM 2.5 pollution levels (2011-2023)
-
----
 
 ## Key Assumptions & Limitations
 
