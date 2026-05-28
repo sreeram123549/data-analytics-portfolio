@@ -78,19 +78,7 @@ Claims per Beneficiary (Age 65+)	SUM([Age 65+ Claims]) / SUM([Age 65+ Beneficiar
 Important caveats:
 •	The dataset covers only Medicare Part D beneficiaries (elderly and some disabled Americans). It does not represent the broader US population or non-Medicare drug spending.
 •	National-level rows were excluded from analysis. All national totals in the dashboard are aggregated from state-level rows.
-________________________________________
-Project Structure
-medicare-partd-prescription-analysis/
-│
-├── data/
-│   ├── Year_2018_clean.xlsx
-│   ├── Year_2021_clean.xlsx
-│   └── Year_2023_clean.xlsx
-│
-├── dashboard/
-│   └── Medicare_Project.twbx
-│
-└── README.md
+
 ________________________________________
 Skills Demonstrated
 Data cleaning across multi-year schema mismatches · Column standardization · Geographic filtering · Suppression flag handling · Tableau union and extract · Choropleth mapping · Dual-axis combo charts · Stacked bar charts · Dashboard actions and interactivity · Calculated fields · Data storytelling
