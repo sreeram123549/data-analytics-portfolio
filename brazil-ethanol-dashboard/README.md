@@ -145,8 +145,3 @@ This analysis explores 50 years of Brazil's ethanol industry journey (1975-2024)
 - Brazil's climate/water resources differ from India's constraints
 
 ---
-
-
-
-*Project completed: May 2026*
-*Data sources verified: ✅ All government/peer-reviewed*
