@@ -143,40 +143,5 @@ Comprehensive analysis of Brazil's biofuel industry (1975-2024) examining econom
 🤖 Exploring predictive analytics and time-series forecasting
 
 ---
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreeram123549&show_icons=true&theme=dark&hide=contribs&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-languages/?username=sreeram123549&layout=compact&theme=dark)
-
-## 🔥 Activity
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sreeram123549&theme=dracula)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sreeram123549&theme=dark)](https://git.io/streak-stats)
-
-### BI & Visualization
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat-square&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-004B87?style=flat-square)
-
-### Data & Querying
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power%20Query-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
-### Platforms
-![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft%20365-00A4EF?style=flat-square&logo=microsoft&logoColor=white)
-
-![Profile Views](https://komarev.com/ghpvc/?username=sreeram123549&style=flat-square&color=0891b2)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sreeram123549&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-<div align="center">
-  <img src="https://github.com/rafaelalves127/rafaelalves127/raw/output/github-contribution-grid-snake.svg" alt="snake"></img>
-</div>
-
-
 
 *Last updated: June 2026*
