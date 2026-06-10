@@ -115,7 +115,7 @@ Champions represent only 3% of customers but drive nearly 50% of total revenue �
 
 **Why I built this:** Demonstrates end-to-end analytical workflow from raw data → segmentation → business-ready insight. Shows ability to make judgment calls (threshold selection, rule design) and defend them with data.
 
-→ View Project
+→ [View Project](https://github.com/sreeram123549/data-analytics-portfolio/tree/main/rfm-customer-segmentation)
 ------
 ## 📈 Highlighted Skills & Achievements
 
