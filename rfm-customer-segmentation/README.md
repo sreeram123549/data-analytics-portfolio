@@ -35,7 +35,7 @@ I gave every customer three scores **(1–5 each):**
 
 | Name | How Many | % of Total | Revenue | % of Revenue | What It Means |
 |------|----------|-----------|---------|--------------|---------------|
-| **Champions** | 160 | 3% | ~50% | 50% | Perfect 5/5/5 — your VIPs |
+| **Champions** | 160 | 3% | ~50% | 50% | Perfect 5/5/5 —  VIPs |
 | **Loyal** | 890 | 15% | ~25% | 25% | Really good customers, consistent |
 | **At Risk** | 1,490 | 25% | ~15% | 15% | Big spenders but haven't bought lately — need to win back |
 | **Potential** | 705 | 12% | ~5% | 5% | Recent buyers, just haven't bought much yet |
