@@ -93,7 +93,7 @@ Comprehensive analysis of Brazil's biofuel industry (1975-2024) examining econom
 → [View Project Details](https://github.com/sreeram123549/data-analytics-portfolio/tree/main/brazil-ethanol-dashboard)
 
 ---
-###4. **RFM Customer Segmentation: Online Retail Analysis**
+4. **RFM Customer Segmentation: Online Retail Analysis**
 **SQL (MySQL) • Power BI • DAX**
 Segmented 5,878 online retail customers using Recency-Frequency-Monetary analysis to identify high-value customers and inform retention strategy.
 
@@ -115,6 +115,7 @@ Champions represent only 3% of customers but drive nearly 50% of total revenue �
 
 **Why I built this:** Demonstrates end-to-end analytical workflow from raw data → segmentation → business-ready insight. Shows ability to make judgment calls (threshold selection, rule design) and defend them with data.
 
+→ View Project
 ------
 ## 📈 Highlighted Skills & Achievements
 
