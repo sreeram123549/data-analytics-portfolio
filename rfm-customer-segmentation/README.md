@@ -75,7 +75,17 @@ It means if you keep your **Champions** happy, you're printing money. Losing eve
 - **Set up loyalty perks** for Champions (protect that 50%)
 - **Nurture the mid-tier** to move them up
 - Probably don't bother marketing to the Lost group
-
 ---
+
+
+<img width="1330" height="800" alt="Screenshot 2026-06-10 132214" src="https://github.com/user-attachments/assets/4d7433d3-711f-481a-ba20-a3376527076d" />
+<img width="995" height="232" alt="Screenshot 2026-06-10 132350" src="https://github.com/user-attachments/assets/e6037c18-d361-4e52-8ab3-03b2a56cf3d6" />
+
+
+
+
+
+
+
 
 *Analysis completed June 2026 | Data spans 2009-2011*
